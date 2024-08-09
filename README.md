@@ -23,3 +23,5 @@
 - **<article class="benefit-cost">**: Replaced `<div>` with `<article>` to semantically define this benefit as another independent and self-contained piece of content within the aside.
 
 - **<footer>**: Replaced `<div>` with `<footer>` to clearly mark the footer area of the webpage, containing copyright information and concluding content.
+
+https://brockaltug.github.io/semantic-webpage-refactor/
